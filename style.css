@@ -35,6 +35,7 @@
 body {
   font-size: 15px;
   font-family: var(--Body-Font);
+  background-color: var(--Off-White);
 }
 
 /* NAVIGATION */
